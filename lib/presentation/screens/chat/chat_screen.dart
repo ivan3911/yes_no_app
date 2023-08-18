@@ -20,7 +20,7 @@ class ChatScreen extends StatelessWidget {
                 'https://cdn.britannica.com/46/242146-050-B3385913/Jennifer-Aniston-Golden-Globes-2020.jpg'),
           ),
         ),
-        title: const Text('Mi amor ?'),
+        title: const Text('Mi amor ♥︎'),
         centerTitle: false,
       ),
       body: _ChatView(),

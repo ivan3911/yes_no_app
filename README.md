@@ -1,17 +1,15 @@
 # yes_no_app
 
-A new Flutter project.
+App Movil desarrolada con flutter en la que se utilizan los principales widgets para emular el funcionamiento de un chat por medio del consumo de la API https://yesno.wtf/api
 
-## Getting Started
+## Puntos revisados en el proyecto.
 
-This project is a starting point for a Flutter application.
+* Gestores de estado
+* Mappers
+* Peticiones HTTP
+* Dio
+* Paquetes
+* Callbacks
+* Provider
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+ ![ImagenChat](https://github.com/ivan3911/yes_no_app/blob/main/assets/chat.png)
