@@ -12,4 +12,4 @@ App Movil desarrolada con flutter en la que se utilizan los principales widgets 
 * Callbacks
 * Provider
 
-                ![ImagenChat](https://github.com/ivan3911/yes_no_app/blob/main/assets/chat.png)
+![ImagenChat](https://github.com/ivan3911/yes_no_app/blob/main/assets/chat.png)
